@@ -11,6 +11,8 @@
 		B54DD8B62800D25E001D9F4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8B52800D25E001D9F4A /* ContentView.swift */; };
 		B54DD8B82800D262001D9F4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B54DD8B72800D262001D9F4A /* Assets.xcassets */; };
 		B54DD8BB2800D262001D9F4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B54DD8BA2800D262001D9F4A /* Preview Assets.xcassets */; };
+		B54DD8C22800E88A001D9F4A /* TextComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C12800E88A001D9F4A /* TextComponent.swift */; };
+		B54DD8C42800E8BF001D9F4A /* ShapeComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C32800E8BF001D9F4A /* ShapeComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		B54DD8B52800D25E001D9F4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B54DD8B72800D262001D9F4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B54DD8BA2800D262001D9F4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B54DD8C12800E88A001D9F4A /* TextComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponent.swift; sourceTree = "<group>"; };
+		B54DD8C32800E8BF001D9F4A /* ShapeComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,8 +57,10 @@
 			children = (
 				B54DD8B32800D25E001D9F4A /* SwiftUIBootcampApp.swift */,
 				B54DD8B52800D25E001D9F4A /* ContentView.swift */,
+				B54DD8C12800E88A001D9F4A /* TextComponent.swift */,
 				B54DD8B72800D262001D9F4A /* Assets.xcassets */,
 				B54DD8B92800D262001D9F4A /* Preview Content */,
+				B54DD8C32800E8BF001D9F4A /* ShapeComponent.swift */,
 			);
 			path = SwiftUIBootcamp;
 			sourceTree = "<group>";
@@ -137,8 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B54DD8C22800E88A001D9F4A /* TextComponent.swift in Sources */,
 				B54DD8B62800D25E001D9F4A /* ContentView.swift in Sources */,
 				B54DD8B42800D25E001D9F4A /* SwiftUIBootcampApp.swift in Sources */,
+				B54DD8C42800E8BF001D9F4A /* ShapeComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
