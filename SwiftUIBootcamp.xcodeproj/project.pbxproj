@@ -15,6 +15,8 @@
 		B54DD8C42800E8BF001D9F4A /* ShapeComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C32800E8BF001D9F4A /* ShapeComponent.swift */; };
 		B54DD8C62800EC06001D9F4A /* ColorAndGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C52800EC06001D9F4A /* ColorAndGradient.swift */; };
 		B54DD8C82800F0EB001D9F4A /* IconAndImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C72800F0EB001D9F4A /* IconAndImage.swift */; };
+		B54DD8CA280139B8001D9F4A /* ActionsheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C9280139B8001D9F4A /* ActionsheetBootcamp.swift */; };
+		B54DD8CC28013DD3001D9F4A /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8CB28013DD3001D9F4A /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		B54DD8C32800E8BF001D9F4A /* ShapeComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeComponent.swift; sourceTree = "<group>"; };
 		B54DD8C52800EC06001D9F4A /* ColorAndGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorAndGradient.swift; sourceTree = "<group>"; };
 		B54DD8C72800F0EB001D9F4A /* IconAndImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconAndImage.swift; sourceTree = "<group>"; };
+		B54DD8C9280139B8001D9F4A /* ActionsheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsheetBootcamp.swift; sourceTree = "<group>"; };
+		B54DD8CB28013DD3001D9F4A /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				B54DD8B92800D262001D9F4A /* Preview Content */,
 				B54DD8C52800EC06001D9F4A /* ColorAndGradient.swift */,
 				B54DD8C72800F0EB001D9F4A /* IconAndImage.swift */,
+				B54DD8C9280139B8001D9F4A /* ActionsheetBootcamp.swift */,
+				B54DD8CB28013DD3001D9F4A /* AlertBootcamp.swift */,
 			);
 			path = SwiftUIBootcamp;
 			sourceTree = "<group>";
@@ -150,7 +156,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B54DD8C22800E88A001D9F4A /* TextComponent.swift in Sources */,
+				B54DD8CA280139B8001D9F4A /* ActionsheetBootcamp.swift in Sources */,
 				B54DD8B62800D25E001D9F4A /* ContentView.swift in Sources */,
+				B54DD8CC28013DD3001D9F4A /* AlertBootcamp.swift in Sources */,
 				B54DD8B42800D25E001D9F4A /* SwiftUIBootcampApp.swift in Sources */,
 				B54DD8C62800EC06001D9F4A /* ColorAndGradient.swift in Sources */,
 				B54DD8C82800F0EB001D9F4A /* IconAndImage.swift in Sources */,
