@@ -17,6 +17,7 @@
 		B54DD8C82800F0EB001D9F4A /* IconAndImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C72800F0EB001D9F4A /* IconAndImage.swift */; };
 		B54DD8CA280139B8001D9F4A /* ActionsheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8C9280139B8001D9F4A /* ActionsheetBootcamp.swift */; };
 		B54DD8CC28013DD3001D9F4A /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8CB28013DD3001D9F4A /* AlertBootcamp.swift */; };
+		B54DD8CE28013FEC001D9F4A /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54DD8CD28013FEC001D9F4A /* AnimationBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B54DD8C72800F0EB001D9F4A /* IconAndImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconAndImage.swift; sourceTree = "<group>"; };
 		B54DD8C9280139B8001D9F4A /* ActionsheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsheetBootcamp.swift; sourceTree = "<group>"; };
 		B54DD8CB28013DD3001D9F4A /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		B54DD8CD28013FEC001D9F4A /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				B54DD8C72800F0EB001D9F4A /* IconAndImage.swift */,
 				B54DD8C9280139B8001D9F4A /* ActionsheetBootcamp.swift */,
 				B54DD8CB28013DD3001D9F4A /* AlertBootcamp.swift */,
+				B54DD8CD28013FEC001D9F4A /* AnimationBootcamp.swift */,
 			);
 			path = SwiftUIBootcamp;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			files = (
 				B54DD8C22800E88A001D9F4A /* TextComponent.swift in Sources */,
 				B54DD8CA280139B8001D9F4A /* ActionsheetBootcamp.swift in Sources */,
+				B54DD8CE28013FEC001D9F4A /* AnimationBootcamp.swift in Sources */,
 				B54DD8B62800D25E001D9F4A /* ContentView.swift in Sources */,
 				B54DD8CC28013DD3001D9F4A /* AlertBootcamp.swift in Sources */,
 				B54DD8B42800D25E001D9F4A /* SwiftUIBootcampApp.swift in Sources */,
